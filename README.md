@@ -9,6 +9,4 @@
               ||     ||
 </pre>
 
-![Metrics](https://metrics.lecoq.io/ohmpzz)
 
-![ohmpzz's github stats](https://github-readme-stats.vercel.app/api?username=ohmpzz&show_icons=true)
